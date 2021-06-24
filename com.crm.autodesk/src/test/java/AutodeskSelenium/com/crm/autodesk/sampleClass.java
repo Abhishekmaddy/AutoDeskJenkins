@@ -12,7 +12,6 @@ public class sampleClass {
 		String USER= System.getProperty("Hi");
 		String BROWSER=System.getProperty("Browser");
 		
-		System.out.println(USER);
-		System.out.println(BROWSER);
+		
 	}
 }
